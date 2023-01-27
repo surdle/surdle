@@ -1,4 +1,4 @@
-<img src="./banner2.svg">
+<img src="./banner3.svg">
 <p align="center">
  <a href="https://treslog.com" target="_blank"><img src="./web2.svg"></a>
  <a href="https://twitter.com/treslog" target="_blank"><img src="./twitter2.svg"></a>
