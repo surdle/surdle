@@ -1,3 +1,3 @@
-<img src="./banner5.svg">
+<img src="./banner6.svg">
 <p align="center">
 </p>
